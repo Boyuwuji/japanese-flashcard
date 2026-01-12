@@ -410,7 +410,7 @@ const VOCABULARY_DATA = [
     "lesson": 4,
     "word": "受付",
     "reading": "うけつけ",
-    "pitch": "(",
+    "pitch": "0",
     "pos": "[名]",
     "meaning": "前台,接待"
   },
@@ -543,8 +543,8 @@ const VOCABULARY_DATA = [
   {
     "id": 61,
     "lesson": 5,
-    "word": "22",
-    "reading": "22",
+    "word": "ここ",
+    "reading": "ここ",
     "pitch": "0",
     "pos": "[代]",
     "meaning": "这里"
@@ -644,7 +644,7 @@ const VOCABULARY_DATA = [
     "lesson": 5,
     "word": "隣",
     "reading": "となり",
-    "pitch": "( )",
+    "pitch": "0",
     "pos": "[名]",
     "meaning": "隔壁,旁边;邻居"
   },
@@ -707,7 +707,7 @@ const VOCABULARY_DATA = [
     "lesson": 5,
     "word": "引っ越し屋",
     "reading": "ひっこしや",
-    "pitch": "(",
+    "pitch": "0",
     "pos": "[名]",
     "meaning": "搬家公司"
   },
@@ -770,7 +770,7 @@ const VOCABULARY_DATA = [
     "lesson": 5,
     "word": "売り場",
     "reading": "うりば",
-    "pitch": "(",
+    "pitch": "0",
     "pos": "[名]",
     "meaning": "柜台,售货处"
   },
